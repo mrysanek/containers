@@ -1,3 +1,4 @@
 Flask
 Redis
-DoesNotExist
+#just a random math library that's never used
+numpy
